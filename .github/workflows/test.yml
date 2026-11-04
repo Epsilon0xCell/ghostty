@@ -65,7 +65,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -96,7 +96,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -132,7 +132,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -161,7 +161,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -194,7 +194,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -223,7 +223,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -361,7 +361,7 @@ jobs:
           fetch-depth: 0
           fetch-tags: true
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -464,7 +464,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -495,7 +495,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -540,7 +540,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -579,7 +579,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -634,7 +634,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4 # Check out repo so we can lint it
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -661,7 +661,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4 # Check out repo so we can lint it
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -688,7 +688,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4 # Check out repo so we can lint it
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -715,7 +715,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4 # Check out repo so we can lint it
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -742,7 +742,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4 # Check out repo so we can lint it
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -781,7 +781,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4 # Check out repo so we can lint it
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
@@ -816,7 +816,7 @@ jobs:
         uses: actions/checkout@v4
 
       - name: Setup Cache
-        uses: namespacelabs/nscloud-cache-action@v1.2.0
+        uses: namespacelabs/nscloud-cache-action@v1.7.0
         with:
           path: |
             /nix
