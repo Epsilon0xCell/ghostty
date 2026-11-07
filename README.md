@@ -1,3 +1,7 @@
+![Ghostty banner: a dark desk at night in a long double exposure photograph, a terminal window glowing phosphor mint, the translucent ghost shape rising out of the window and stretching long across the desk like a light trail, midnight black room, one warm sodium lamp accent](banner.png)
+
+<p align="center"><img src="logo.png" alt="Ghostty logo: a friendly round ghost silhouette in ghost white, its body double exposed with the faint grid of a terminal window in phosphor mint, midnight black background, one warm sodium glint at its eye" width="200"></p>
+
 <!-- LOGO -->
 <h1>
 <p align="center">
